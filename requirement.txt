@@ -1,9 +1,1 @@
-pandas
-numpy 
-Streamlit 
-Streamlit-webrtc
-Streamlit-card
-tensorflow
-mediapipe
-opencv-python
-streamlit_extras
+pandas numpy Streamlit Streamlit-webrtc Streamlit-card tensorflow mediapipe opencv-python streamlit_extras
